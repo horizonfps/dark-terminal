@@ -1,0 +1,23 @@
+{
+    "background": "#0A0A0F",
+    "black": "#0A0A0F",
+    "blue": "#8A8A8A",
+    "brightBlack": "#0A0A0F",
+    "brightBlue": "#A0A0A0",
+    "brightCyan": "#909090",
+    "brightGreen": "#C8001E",
+    "brightPurple": "#A0A0A0",
+    "brightRed": "#FF3C14",
+    "brightWhite": "#DCDCDC",
+    "brightYellow": "#C8001E",
+    "cursorColor": "#FF3C14",
+    "cyan": "#707070",
+    "foreground": "#B0B0B0",
+    "green": "#C8001E",
+    "name": "Hellfire",
+    "purple": "#8A8A8A",
+    "red": "#C8001E",
+    "selectionBackground": "#3A1010",
+    "white": "#B0B0B0",
+    "yellow": "#FF3C14"
+}
